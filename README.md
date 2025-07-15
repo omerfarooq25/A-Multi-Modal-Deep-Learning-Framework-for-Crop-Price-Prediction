@@ -34,7 +34,7 @@ Performance Metrics: Evaluated using RMSE, MAE, and R² score.
 We trained our model on the Crop Price Prediction Dataset from Kaggle, which contains detailed pricing records across different states, commodities, and periods.
 
 # 📂 Dataset Link:
-Crop Price Prediction Dataset on Kaggle
+Crop Price Prediction Dataset on Kaggle : https://www.kaggle.com/datasets/santoshd3/crop-price-prediction
 
 ### Project Details :
 
